@@ -1,0 +1,10 @@
+.group {
+    padding-right: 1rem;
+    transition: padding-right 0.3s ease; 
+  }
+  
+.group:hover {
+  border-top-left-radius: 50px; 
+  border-bottom-left-radius: 50px;
+  background-color: black;
+}
